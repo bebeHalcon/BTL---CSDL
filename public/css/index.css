@@ -1,0 +1,76 @@
+#homepage-carousel-1{
+	position: relative; 
+	
+}
+
+#homepage-carousel-1::before{
+	content: "";
+	background-image: url('//corp.vcdn.vn/upload/vng/source/Banner/ABOUT%20BANNER%20220209-02.png');
+	background-size: cover;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	bottom: 0px;
+	left: 0px;
+	opacity: 0.4;
+}
+
+#homepage-carousel-2{
+	position: relative; 
+	
+}
+
+#homepage-carousel-2::before{
+	content: "";
+	background-image: url('https://www.vngcloud.vn/documents/20126/1294954/vng-cloud-events-special-demo-tour-cover.jpg/866c5a90-e5e8-1d0a-362d-be0a6878b481?t=1592539421077');
+	background-size: cover;
+	background-position: center;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	bottom: 0px;
+	left: 0px;
+	opacity: 0.4;
+}
+
+#homepage-carousel-3{
+	position: relative; 
+	
+}
+
+#homepage-carousel-3::before{
+	content: "";
+	background-image: url('https://bluec.vn/wp-content/uploads/2023/05/ZaloPay-Talks.jpg');
+	background-size: cover;
+	position: absolute;
+	background-position: center;
+	top: 0px;
+	right: 0px;
+	bottom: 0px;
+	left: 0px;
+	opacity: 0.4;
+}
+
+#short-about .btn-get-started {
+	font-family: "Raleway", sans-serif;
+	font-weight: 500;
+	font-size: 14px;
+	letter-spacing: 1px;
+	display: inline-block;
+	padding: 12px 32px;
+	border-radius: 50px;
+	transition: 0.5s;
+	line-height: 1;
+	margin: 10px;
+	color: rgb(230, 91, 40);
+	-webkit-animation-delay: 0.8s;
+	animation-delay: 0.8s;
+	border: 2px solid rgb(230, 91, 40);
+
+  }
+
+  #short-about .btn-get-started:hover {
+	background: rgb(230, 91, 40);
+	color: #fff;
+	text-decoration: none;
+  }
